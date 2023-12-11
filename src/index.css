@@ -98,6 +98,6 @@
 
 
     .bg-section-word {
-      @apply absolute w-full -top-10 text-center font-light text-[240px] text-slate-700/10  pointer-events-none;
+      @apply absolute w-full -top-10 text-center font-light text-[240px] text-gray-700/10  pointer-events-none;
     }
 }  
